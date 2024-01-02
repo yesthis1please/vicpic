@@ -1,0 +1,37 @@
+body {
+    font-family: 'Rubik scribble';
+    color: white;
+    margin: 0;
+    text-align: center;
+    background-color: #f49a11;
+}
+
+
+section {
+    padding: 100px;
+}
+
+h1{
+    font-size: 42pt;
+}
+
+img{
+    max-width: 30%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+/* Make the text responsive and center it */
+@media (max-width: 600px) {
+    section {
+        font-size: 12pt;
+    }
+    h1{
+        font-size: 16pt;
+    }
+
+}
