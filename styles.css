@@ -25,6 +25,12 @@ a {
 
 }
 
+.privacy {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+
+}
+
 /* Make the text responsive and center it */
 @media (max-width: 600px) {
     section {
